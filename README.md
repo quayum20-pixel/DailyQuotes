@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22993006/README.md)
 📝 DailyQuotes
 A Simple Random Quote Generator built with HTML, CSS, and JavaScript, Using the DummyJSON API to fetch inspiring quotes dynamically.
 🚀 Features
