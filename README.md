@@ -31,6 +31,8 @@ The app uses JavaScript's fetch() method to get quotes from DummyJSON API and di
 
     <script src="/Assets/Dailyquotes/script.js"></script>
 </body>
-</html>
+</html>[Upload[style.css](https://github.com/user-attachments/files/22992997/style.css)
+ing README.md…[script.js](https://github.com/user-attachments/files/22992998/script.js)]()
+
 💡 How it Works
 The app uses JavaScript's fetch() method to get quotes from DummyJSON API and display them dynamically on the webpage. Each click of the New Quote button reloads a new quote from the API.
